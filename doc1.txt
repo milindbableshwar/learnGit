@@ -1,5 +1,2 @@
-Hello World - First Commit
-Bug fixes in main branch
-Second commit
-Dev branch created - Commit
-Branch 1st commit
+Hello World
+Apple
